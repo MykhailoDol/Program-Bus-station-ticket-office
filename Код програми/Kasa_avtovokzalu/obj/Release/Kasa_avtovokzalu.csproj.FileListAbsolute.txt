@@ -1,0 +1,38 @@
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\bin\Release\Kasa_avtovokzalu.exe.config
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\bin\Release\Kasa_avtovokzalu.exe
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\bin\Release\Kasa_avtovokzalu.pdb
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.DeleteWayForm.resources
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.LoginForm.resources
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.MyTicketsForm.resources
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.NewTicketForm.resources
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.NewWayForm.resources
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.ProgramForm.resources
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.Properties.Resources.resources
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.RegisterForm.resources
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.ResultForm.resources
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.SearchForm.resources
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.TimeTableForm.resources
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.exe
+C:\Users\User\Desktop\CourseWork\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.pdb
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\bin\Release\Kasa_avtovokzalu.exe.config
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\bin\Release\Kasa_avtovokzalu.exe
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\bin\Release\Kasa_avtovokzalu.pdb
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.csproj.AssemblyReference.cache
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.DeleteWayForm.resources
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.LoginForm.resources
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.MyTicketsForm.resources
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.NewTicketForm.resources
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.NewWayForm.resources
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.ProgramForm.resources
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.Properties.Resources.resources
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.RegisterForm.resources
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.ResultForm.resources
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.SearchForm.resources
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.TimeTableForm.resources
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.csproj.GenerateResource.cache
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.csproj.CoreCompileInputs.cache
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.exe
+C:\Users\user\Saved Games\Desktop\Копия курсового\Kasa_avtovokzalu\obj\Release\Kasa_avtovokzalu.pdb
